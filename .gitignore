@@ -20,4 +20,4 @@ Data.fs*
 coverage
 test
 .idea/
-
+*.ini
