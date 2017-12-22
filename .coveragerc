@@ -1,0 +1,3 @@
+[run]
+source = spirit_stock
+omit = spirit_stock/test*
